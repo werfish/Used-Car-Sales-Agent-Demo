@@ -1,0 +1,282 @@
+[
+    {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2022,
+      "minimum_price": 25000,
+      "type": "Sedan",
+      "fuel_type": "Hybrid",
+      "features": ["Bluetooth", "Backup Camera", "Lane Assist"]
+    },
+    {
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2021,
+      "minimum_price": 20000,
+      "type": "Sedan",
+      "fuel_type": "Gasoline",
+      "features": ["Bluetooth", "Cruise Control", "Apple CarPlay"]
+    },
+    {
+      "make": "Ford",
+      "model": "F-150",
+      "year": 2023,
+      "minimum_price": 30000,
+      "type": "Truck",
+      "fuel_type": "Diesel",
+      "features": ["4WD", "Tow Package", "Backup Camera"]
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Bolt EV",
+      "year": 2022,
+      "minimum_price": 36000,
+      "type": "Hatchback",
+      "fuel_type": "Electric",
+      "features": ["Bluetooth", "Fast Charging", "Lane Assist"]
+    },
+    {
+      "make": "Tesla",
+      "model": "Model 3",
+      "year": 2023,
+      "minimum_price": 40000,
+      "type": "Sedan",
+      "fuel_type": "Electric",
+      "features": ["Autopilot", "Touchscreen Display", "Glass Roof"]
+    },
+    {
+      "make": "BMW",
+      "model": "X5",
+      "year": 2021,
+      "minimum_price": 60000,
+      "type": "SUV",
+      "fuel_type": "Hybrid",
+      "features": ["Leather Seats", "All-Wheel Drive", "Navigation System"]
+    },
+    {
+      "make": "Audi",
+      "model": "A4",
+      "year": 2022,
+      "minimum_price": 45000,
+      "type": "Sedan",
+      "fuel_type": "Gasoline",
+      "features": ["Sunroof", "Quattro AWD", "Virtual Cockpit"]
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": 2020,
+      "minimum_price": 42000,
+      "type": "Sedan",
+      "fuel_type": "Gasoline",
+      "features": ["Leather Seats", "Backup Camera", "Heated Seats"]
+    },
+    {
+      "make": "Nissan",
+      "model": "Leaf",
+      "year": 2021,
+      "minimum_price": 31000,
+      "type": "Hatchback",
+      "fuel_type": "Electric",
+      "features": ["ProPILOT Assist", "E-Pedal", "Navigation"]
+    },
+    {
+      "make": "Hyundai",
+      "model": "Tucson",
+      "year": 2022,
+      "minimum_price": 25000,
+      "type": "SUV",
+      "fuel_type": "Gasoline",
+      "features": ["Blind Spot Monitor", "Apple CarPlay", "Heated Seats"]
+    },
+    {
+      "make": "Kia",
+      "model": "Sorento",
+      "year": 2021,
+      "minimum_price": 28000,
+      "type": "SUV",
+      "fuel_type": "Hybrid",
+      "features": ["Third-Row Seating", "Adaptive Cruise Control", "Android Auto"]
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "year": 2022,
+      "minimum_price": 29000,
+      "type": "Hatchback",
+      "fuel_type": "Gasoline",
+      "features": ["Sport Seats", "Turbocharged Engine", "Infotainment System"]
+    },
+    {
+      "make": "Subaru",
+      "model": "Outback",
+      "year": 2021,
+      "minimum_price": 27000,
+      "type": "Wagon",
+      "fuel_type": "Gasoline",
+      "features": ["All-Wheel Drive", "EyeSight Driver Assist", "Roof Rails"]
+    },
+    {
+      "make": "Mazda",
+      "model": "CX-5",
+      "year": 2017,
+      "minimum_price": 26000,
+      "type": "SUV",
+      "fuel_type": "Gasoline",
+      "features": ["Heads-Up Display", "Bose Sound System", "Heated Steering Wheel"]
+    },
+    {
+      "make": "Jeep",
+      "model": "Wrangler",
+      "year": 2015,
+      "minimum_price": 33000,
+      "type": "SUV",
+      "fuel_type": "Gasoline",
+      "features": ["4WD", "Removable Top", "Off-Road Package"]
+    },
+    {
+      "make": "Volvo",
+      "model": "XC90",
+      "year": 2021,
+      "minimum_price": 50000,
+      "type": "SUV",
+      "fuel_type": "Hybrid",
+      "features": ["Pilot Assist", "Panoramic Sunroof", "Third-Row Seating"]
+    },
+    {
+      "make": "Lexus",
+      "model": "ES 350",
+      "year": 2022,
+      "minimum_price": 40000,
+      "type": "Sedan",
+      "fuel_type": "Gasoline",
+      "features": ["Leather Seats", "Mark Levinson Audio", "Safety System+"]
+    },
+    {
+      "make": "Porsche",
+      "model": "911",
+      "year": 2013,
+      "minimum_price": 99000,
+      "type": "Coupe",
+      "fuel_type": "Gasoline",
+      "features": ["Sport Chrono Package", "Adaptive Suspension", "Leather Interior"]
+    },
+    {
+      "make": "Ferrari",
+      "model": "Roma",
+      "year": 2010,
+      "minimum_price": 220000,
+      "type": "Coupe",
+      "fuel_type": "Gasoline",
+      "features": ["Turbocharged V8", "Carbon Fiber Trim", "Premium Sound"]
+    },
+    {
+      "make": "Lamborghini",
+      "model": "Huracán",
+      "year": 2022,
+      "minimum_price": 250000,
+      "type": "Coupe",
+      "fuel_type": "Gasoline",
+      "features": ["V10 Engine", "All-Wheel Drive", "Sport Exhaust"]
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "year": 2021,
+      "minimum_price": 60000,
+      "type": "Coupe",
+      "fuel_type": "Gasoline",
+      "features": ["Mid-Engine Design", "Removable Roof Panel", "Performance Data Recorder"]
+    },
+    {
+      "make": "Ford",
+      "model": "Mustang Mach-E",
+      "year": 2022,
+      "minimum_price": 43000,
+      "type": "SUV",
+      "fuel_type": "Electric",
+      "features": ["Touchscreen Display", "Hands-Free Driving", "Fast Charging"]
+    },
+    {
+      "make": "Jaguar",
+      "model": "I-PACE",
+      "year": 2021,
+      "minimum_price": 70000,
+      "type": "SUV",
+      "fuel_type": "Electric",
+      "features": ["All-Wheel Drive", "Panoramic Roof", "Meridian Sound System"]
+    },
+    {
+      "make": "Nissan",
+      "model": "Altima",
+      "year": 2020,
+      "minimum_price": 24000,
+      "type": "Sedan",
+      "fuel_type": "Gasoline",
+      "features": ["All-Wheel Drive", "Remote Start", "Safety Shield 360"]
+    },
+    {
+      "make": "Hyundai",
+      "model": "Elantra",
+      "year": 2021,
+      "minimum_price": 19000,
+      "type": "Sedan",
+      "fuel_type": "Gasoline",
+      "features": ["Wireless Android Auto", "Forward Collision-Avoidance", "Lane Keeping Assist"]
+    },
+    {
+      "make": "Kia",
+      "model": "Telluride",
+      "year": 2022,
+      "minimum_price": 32000,
+      "type": "SUV",
+      "fuel_type": "Gasoline",
+      "features": ["Third-Row Seating", "Blind Spot Monitoring", "Leather Interior"]
+    },
+    {
+      "make": "Tesla",
+      "model": "Model X",
+      "year": 2021,
+      "minimum_price": 90000,
+      "type": "SUV",
+      "fuel_type": "Electric",
+      "features": ["Falcon Wing Doors", "Autopilot", "All-Wheel Drive"]
+    },
+    {
+      "make": "BMW",
+      "model": "i3",
+      "year": 2020,
+      "minimum_price": 45000,
+      "type": "Hatchback",
+      "fuel_type": "Electric",
+      "features": ["Carbon Fiber Body", "Range Extender", "Navigation System"]
+    },
+    {
+      "make": "Audi",
+      "model": "e-tron",
+      "year": 2022,
+      "minimum_price": 65000,
+      "type": "SUV",
+      "fuel_type": "Electric",
+      "features": ["Quattro AWD", "Virtual Mirrors", "Panoramic Sunroof"]
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "GLE",
+      "year": 2021,
+      "minimum_price": 55000,
+      "type": "SUV",
+      "fuel_type": "Gasoline",
+      "features": ["MBUX System", "Air Suspension", "Heated Seats"]
+    },
+    {
+      "make": "Land Rover",
+      "model": "Range Rover Evoque",
+      "year": 2022,
+      "minimum_price": 43000,
+      "type": "SUV",
+      "fuel_type": "Gasoline",
+      "features": ["Terrain Response", "Panoramic Roof", "Leather Seats"]
+    }
+  ]
+  

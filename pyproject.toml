@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "carrecommender"
+version = "0.1.0"
+description = ""
+authors = ["Robert Mazurowski <werfish1@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.3"
+python-dotenv = "^1.0.1"
+langchain = "^0.3.4"
+langchain-openai = "^0.2.3"
+langchain-community = "^0.3.3"
+langchain-chroma = ">=0.1.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
