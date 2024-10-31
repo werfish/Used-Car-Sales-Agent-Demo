@@ -99,7 +99,7 @@ Welcome to Sallies Used Cars recommendation chatbot. Here is a list of questions
 ```
 
 ## Contributing
-Contributions are welcome! If you'd like to improve the chatbot or add new features, please feel free to submit a pull request.
+This is just a demo, for portfolio purposes.
 
 ## License
 This project is licensed under the MIT License.
